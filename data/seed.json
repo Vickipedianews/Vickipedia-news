@@ -1,0 +1,246 @@
+{
+  "authors": {
+    "victoria": {
+      "id": "victoria",
+      "name": "Victoria Leonard",
+      "role": "DEMO · Reporter",
+      "bio": "Sample author profile for prototype demonstration. Biography, role and contact links are editable. This profile does not represent a real journalist.",
+      "initials": "VL",
+      "social": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    "tunde": {
+      "id": "tunde",
+      "name": "Tunde Adebayo",
+      "role": "DEMO · Contributor",
+      "bio": "Sample contributor profile for prototype demonstration. All professional details are placeholders and should be replaced with verified information.",
+      "initials": "TA",
+      "social": [
+        "LinkedIn"
+      ]
+    },
+    "amara": {
+      "id": "amara",
+      "name": "Amara Okafor",
+      "role": "DEMO · Columnist",
+      "bio": "Sample columnist profile for prototype demonstration. No real credentials or achievements are claimed.",
+      "initials": "AO",
+      "social": [
+        "Instagram"
+      ]
+    },
+    "founder": {
+      "id": "founder",
+      "name": "Founder profile",
+      "role": "EDITABLE PLACEHOLDER",
+      "bio": "Official name, role, biography, photograph and social links to be supplied by Vickipedia News.",
+      "initials": "VN",
+      "social": []
+    }
+  },
+  "articles": [
+    {
+      "id": "policy-briefing",
+      "title": "Policy briefing: what a new national plan could mean for households",
+      "deck": "A sample explainer shows how a newsroom can connect policy coverage to everyday questions.",
+      "category": "Politics",
+      "author": "victoria",
+      "date": "October 6, 2026",
+      "time": "10:35 AM",
+      "tags": [
+        "Nigeria",
+        "Policy"
+      ],
+      "featured": true,
+      "breaking": true,
+      "editor": null,
+      "image": "Policy briefing · sample artwork",
+      "body": "This demonstration story illustrates a clear, sourced explainer format. Replace this sample copy with verified reporting before publication.\n\nA strong article record includes its headline, deck, category, author reference, publication time, image metadata, tags and related coverage. Author information comes from a shared profile, so a profile update flows through every byline.\n\nFor a real newsroom, editors should add primary-source links and confirm all facts before publication."
+    },
+    {
+      "id": "markets-watch",
+      "title": "Markets watch: a practical guide to reading the week’s business signals",
+      "deck": "A demo finance story built to show category, author and related-article connections.",
+      "category": "Finance",
+      "author": "tunde",
+      "date": "October 6, 2026",
+      "time": "9:20 AM",
+      "tags": [
+        "Business",
+        "Finance"
+      ],
+      "image": "Markets watch · sample artwork",
+      "body": "This is clearly marked sample content. It demonstrates the structure for accessible financial coverage without inventing market figures or claims.\n\nA production workflow should attach source material, check figures and label analysis separately from straight reporting."
+    },
+    {
+      "id": "screen-culture",
+      "title": "Screen culture: how local creators are finding new audiences",
+      "deck": "A sample entertainment feature with an individual byline and reusable author profile.",
+      "category": "Entertainment",
+      "author": "amara",
+      "date": "October 5, 2026",
+      "time": "4:10 PM",
+      "tags": [
+        "Entertainment",
+        "Culture"
+      ],
+      "image": "Screen culture · sample artwork",
+      "body": "This sample feature has no fabricated quotations or claims about real people. Add interviews and verified context when replacing the demo copy.\n\nThe author profile can also list recurring opinion pieces, giving readers a route to more work by the same contributor."
+    },
+    {
+      "id": "city-services",
+      "title": "City services: a checklist for following local infrastructure updates",
+      "deck": "A practical metro template for clear public-interest reporting.",
+      "category": "Metro",
+      "author": "victoria",
+      "date": "October 5, 2026",
+      "time": "1:05 PM",
+      "tags": [
+        "Metro",
+        "Communities"
+      ],
+      "image": "City services · sample artwork",
+      "body": "Demo story. A published version should cite official records and clearly identify the locations and dates covered.\n\nThe article page reserves fields for image caption, credit, alt text, editor, updated time and related reporting."
+    },
+    {
+      "id": "global-brief",
+      "title": "Global brief: making sense of a changing international agenda",
+      "deck": "A sample foreign-affairs story page for the Vickipedia News archive.",
+      "category": "Foreign",
+      "author": "tunde",
+      "date": "October 4, 2026",
+      "time": "11:40 AM",
+      "tags": [
+        "Foreign",
+        "World"
+      ],
+      "image": "Global brief · sample artwork",
+      "body": "This is a structural demonstration, not a report of actual events. A live story should include links to official documents and reliable sources.\n\nPublication and update timestamps remain distinct so readers can see when information changed."
+    },
+    {
+      "id": "weekend-sport",
+      "title": "Weekend sport: the questions shaping a season ahead",
+      "deck": "An example sports preview layout with clean attribution.",
+      "category": "Sports",
+      "author": "victoria",
+      "date": "October 3, 2026",
+      "time": "8:30 AM",
+      "tags": [
+        "Sports",
+        "Nigeria"
+      ],
+      "image": "Weekend sport · sample artwork",
+      "body": "Demo preview. No real result, athlete quote or statistic is asserted. The article model can reference verified data and associated video when provided."
+    },
+    {
+      "id": "digital-life",
+      "title": "Digital life: a simple guide to checking claims online",
+      "deck": "A technology explainer template built around practical reader questions.",
+      "category": "Technology",
+      "author": "amara",
+      "date": "October 2, 2026",
+      "time": "3:00 PM",
+      "tags": [
+        "Technology",
+        "Media literacy"
+      ],
+      "image": "Digital life · sample artwork",
+      "body": "Demo explainer copy. In a real article, the newsroom should explain its verification method and link to authoritative guidance."
+    },
+    {
+      "id": "opinion-trust",
+      "title": "Opinion: trust begins with showing readers how a story was reported",
+      "deck": "An example individual opinion piece, clearly distinct from reporting.",
+      "category": "Opinion",
+      "author": "amara",
+      "date": "October 1, 2026",
+      "time": "12:00 PM",
+      "tags": [
+        "Opinion",
+        "Media"
+      ],
+      "image": "Opinion · sample artwork",
+      "body": "This sample opinion piece demonstrates a prominent contributor byline and author link. Replace with an authored argument and retain clear sourcing for factual claims.\n\nOpinion belongs to its named author; it does not automatically represent the publication’s institutional voice."
+    },
+    {
+      "id": "editorial-standards",
+      "title": "Editorial: a commitment to clarity, corrections and accountability",
+      "deck": "An institutional editorial placeholder, distinct from individual opinion.",
+      "category": "Editorial",
+      "author": "founder",
+      "date": "September 30, 2026",
+      "time": "9:00 AM",
+      "tags": [
+        "Editorial",
+        "Standards"
+      ],
+      "image": "Editorial · sample artwork",
+      "body": "Editable institutional editorial placeholder. This text should be reviewed and approved by Vickipedia News before publication. It is not a claim about existing newsroom policies."
+    },
+    {
+      "id": "community-gist",
+      "title": "Community gist: the small ideas bringing neighbours together",
+      "deck": "A light feature template for community-led coverage.",
+      "category": "Gists",
+      "author": "tunde",
+      "date": "September 29, 2026",
+      "time": "2:15 PM",
+      "tags": [
+        "Gists",
+        "Community"
+      ],
+      "image": "Community · sample artwork",
+      "body": "Sample content only. Add confirmed details and consent before publishing material about identifiable community members."
+    },
+    {
+      "id": "newsroom-notes",
+      "title": "Newsroom notes: a guide to the Vickipedia Video format",
+      "deck": "Introducing a flexible home for short explainers and video news.",
+      "category": "News",
+      "author": "victoria",
+      "date": "September 28, 2026",
+      "time": "10:10 AM",
+      "tags": [
+        "News",
+        "Video"
+      ],
+      "image": "Newsroom notes · sample artwork",
+      "video": "video-brief",
+      "body": "A sample introduction to a multimedia format. A video record can use an uploaded file, a hosted platform embed or a placeholder until video is ready.\n\nNo media is auto-played. For launch, add captioning, transcript and rights-cleared thumbnail artwork."
+    }
+  ],
+  "videos": [
+    {
+      "id": "video-brief",
+      "title": "WATCH: The Vickipedia Video newsroom briefing",
+      "category": "News",
+      "author": "victoria",
+      "duration": "01:42",
+      "date": "October 6, 2026",
+      "summary": "Sample video record. Replace with a rights-cleared clip or supported embed when available.",
+      "article": "newsroom-notes"
+    },
+    {
+      "id": "video-policy",
+      "title": "WATCH: A quick guide to the policy explainer",
+      "category": "Politics",
+      "author": "tunde",
+      "duration": "02:18",
+      "date": "October 5, 2026",
+      "summary": "Demo video placeholder; no auto-play.",
+      "article": "policy-briefing"
+    },
+    {
+      "id": "video-culture",
+      "title": "WATCH: Notes on local screen culture",
+      "category": "Entertainment",
+      "author": "amara",
+      "duration": "00:56",
+      "date": "October 4, 2026",
+      "summary": "Demo short-form video placeholder.",
+      "article": "screen-culture"
+    }
+  ]
+}

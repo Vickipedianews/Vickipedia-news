@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "/api/index?route=api/:path*"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/api/index?route=:path*"
+    }
+  ],
+  "buildCommand": "npm run build",
+  "functions": {
+    "api/index.js": {
+      "maxDuration": 30
+    }
+  }
+}
